@@ -1,4 +1,4 @@
-name: 'HCL DevOps Test GUI GitHub Action'
+name: 'HCL DevOps Test GUI GitHub Action - Test'
 description: 'Execute HCL DevOps Test UI based functional tests and compound tests from GitHub Actions workflows.'
 branding:
   icon: 'check-square'
